@@ -1,2 +1,1 @@
-# team7
-Hello Code
+# Hello Code
